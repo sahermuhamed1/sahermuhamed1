@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saher Muhamed</h1>
 <h3 align="center">A Junior Data Scientist & AI Enthusiast</h3>
-<img align="right" alt="Coding" Width="400" src="https://imgs.search.brave.com/Rlv0IYb6wpP57uy0KAQsSUoGbqE9udDx184q0S9tBZI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWFuaW1hdGVkLWxh/cHRvcC1mbG93LXN0/cmVhbS1qYTA0MDEw/cm01bzY4emZrLmdp/Zg.gif">
+<img align="right" alt="Coding" Width="400" src="https://imgs.search.brave.com/5Mj33Hh8eEQg4xptz-eDPZCFRAvsYJ2YQiriUZuh6dc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhOM2hqTVRBeU4z/QnBiemhvTldVMmRY/WmpaR05tYkRsemRt/VnZOMmgwZFdGNU1Y/ZDBiMlExYnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMTNIZ3dHc1hG/MGFpR1kvMjAwLmdp/Zg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahermuhamed1&label=Profile%20views&color=0e75b6&style=flat" alt="sahermuhamed1" /> </p>
 
 - 📄 Know about my experiences [Here](https://docs.google.com/document/d/1r798gufqvfIWxfIN1p816R_BmtGe-EiY/edit?usp=drive_link&ouid=109907611887712907925&rtpof=true&sd=true)
