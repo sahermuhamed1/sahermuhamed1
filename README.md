@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [Here](https://docs.google.com/document/d/1r798gufqvfIWxfIN1p816R_BmtGe-EiY/edit?usp=drive_link&ouid=109907611887712907925&rtpof=true&sd=true)
   
-- 👨‍💻 Some of my projects are available at my portfolio here [Here](https://docs.google.com/document/d/1r798gufqvfIWxfIN1p816R_BmtGe-EiY/edit?usp=drive_link&ouid=109907611887712907925&rtpof=true&sd=true)
+- 👨‍💻 Some of my projects are available at my portfolio [Here](https://docs.google.com/document/d/1r798gufqvfIWxfIN1p816R_BmtGe-EiY/edit?usp=drive_link&ouid=109907611887712907925&rtpof=true&sd=true)
 
 - 📝 I regularly write articles on [Here](https://www.linkedin.com/in/sahermuhamed/)
 
