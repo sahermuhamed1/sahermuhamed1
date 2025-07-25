@@ -10,7 +10,7 @@
 -  How to reach me **sahermuhamed176@gmail.com**
 
 
--  I’m looking to collaborate on **Some Data Scince & AI Projects**
+-  I’m looking to collaborate on **Some Data Science & AI Projects**
 
 
 <h3 align="left">Connect with me:</h3>
