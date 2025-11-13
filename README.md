@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saher Muhamed</h1>
-<h3 align="center">"Junior Data Scientist Specialied in NLP & Computer Vision"</h3>
+<h3 align="center">"Junior Data Scientist Specialied in NLP"</h3>
 <img align="right" alt="Coding" Width="400" src="https://imgs.search.brave.com/5Mj33Hh8eEQg4xptz-eDPZCFRAvsYJ2YQiriUZuh6dc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhOM2hqTVRBeU4z/QnBiemhvTldVMmRY/WmpaR05tYkRsemRt/VnZOMmgwZFdGNU1Y/ZDBiMlExYnlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vMTNIZ3dHc1hG/MGFpR1kvMjAwLmdp/Zg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahermuhamed1&label=Profile%20views&color=0e75b6&style=flat" alt="sahermuhamed1" /> </p>
 
